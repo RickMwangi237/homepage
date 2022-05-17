@@ -1,6 +1,7 @@
 .hero{
     background: #1f2937;
     height: 500px;
+    display:flex
 }
 
 .logo{
@@ -22,5 +23,5 @@
 img{
     height:150px;
     width: 300px;
-    
+
 }
