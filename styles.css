@@ -1,7 +1,9 @@
 .hero{
     background: #1f2937;
     height: 500px;
-    display:flex
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo{
