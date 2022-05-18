@@ -6,6 +6,10 @@
     align-items: center;
 }
 
+.container1{
+    display:flex;
+}
+
 .logo{
     font-size: 24px;
     color: #F9FAF8;
